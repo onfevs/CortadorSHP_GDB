@@ -11,8 +11,8 @@
 
 Este script automatiza el recorte de una base de datos geográfica (GDB) utilizando un área de recorte definida por un shapefile. Está diseñado específicamente para preparar la cartografía base que debe presentarse ante entidades como la **ANM (Agencia Nacional de Minería)** o la **ANLA (Autoridad Nacional de Licencias Ambientales)** en el marco de proyectos como:
 
-- Informes de **ICA (Instrumento de Control Ambiental)**.
-- Estudios de **EIAEIA (Estudio de Impacto Ambiental)**.
+- Informes de **ICA (Informe de Cumplimiento Ambiental)**.
+- Estudios de **EIA (Estudio de Impacto Ambiental)**.
 - Plan de **PMA (Plan de Manejo Ambiental)**.
 - Formatos de **FBM (Formatos Basicos Mineros)**.
 - Programas **PUEE Programa Único de Exploración y Explotación**.

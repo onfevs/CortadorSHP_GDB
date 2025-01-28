@@ -15,8 +15,8 @@ Este script automatiza el recorte de una base de datos geográfica (GDB) utiliza
 - Estudios de **EIA (Estudio de Impacto Ambiental)**.
 - Plan de **PMA (Plan de Manejo Ambiental)**.
 - Formatos de **FBM (Formatos Basicos Mineros)**.
-- Programas **PUEE Programa Único de Exploración y Explotación**.
-- Plan de **PTE Plan de Trabajo de Explotación**.
+- Programas **PUEE (Programa Único de Exploración y Explotación)**.
+- Plan de **PTE (Plan de Trabajo de Explotación)**.
 - Programas de **PTO (Plan de Trabajo y Obras)**.
 
 La cartografía base procesada se debe incluir en una carpeta adicional donde también se encuentre la GDB de **Cartografía Temática**, facilitando su integración en otros análisis geoespaciales.

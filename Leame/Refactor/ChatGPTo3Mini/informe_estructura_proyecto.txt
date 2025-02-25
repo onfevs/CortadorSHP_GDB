@@ -1,0 +1,83 @@
+Proyecto: prueba final
+Operador: onfevs
+
+Estructura de carpetas y archivos:
+
+├── *1. CSV*
+
+    Descripción: Incluye archivos CSV con coordenadas y datos críticos de monitoreo, muestreo y puntos estratégicos del proyecto.
+
+    ├── Infraestructura.csv
+    ├── monitoreo_agua.csv
+    ├── monitoreo_aire.csv
+    ├── monitoreo_ruido.csv
+    ├── monitoreo_vibraciones.csv
+    ├── muestras_suelos.csv
+    └── puntos_ecologicos.csv
+
+├── *2. GDB*
+
+    Descripción: Contiene bases de datos geográficas esenciales con información espacial crítica del proyecto minero.
+
+    ├── BD_ANLA_MAGNA_NACIONAL.gdb
+    ├── CartoBase_MAGNA_NACIONAL.gdb
+    └── SHP
+
+├── *3. METADATOS*
+
+    Descripción: Almacena metadatos en formato XML, proporcionando información estructurada y detallada del proyecto minero.
+
+    ├── T_11_GEOLOGIA
+    ├── T_12_GEOMORFOLOGIA
+    ├── T_14_SUELOS
+    ├── T_15_HIDROLOGIA
+    ├── T_16_HIIDROGEOLOGIA
+    ├── T_19_CLIMA
+    ├── T_20_BIOTICO_CONT
+    ├── T_22_POLITICO_ADMINISTRATIVO
+    ├── T_26_GESTION_RIESGO
+    └── T_33_PROYECTO
+
+├── *4. MXD*
+
+    Descripción: Incluye archivos MXD que facilitan la edición y visualización precisa de la cartografía del proyecto.
+
+    ├── 1. LOCALIZACIÓN GENERAL TITULO MINERO ECH-122.mxd
+    ├── 10. ZONAS DE RECARGA DE ACUIFEROS.mxd
+    ├── 11. ZONIFICACIÓN CLIMATICA.mxd
+    ├── 12. AMENAZA POR INUNDACIONES.mxd
+    ├── 13. AMENAZA POR MOVIMIENTOS EN MASA.mxd
+    ├── 14. AMENAZA POR AVENIDAS TORRENCIALES - copia.mxd
+    ├── 15. AREA DE INFLUENCIA DEL PROYECTO ECH-122.mxd
+    ├── 2. UNIDAD GEOLOGICA Y ESTRUCTURAL.mxd
+    ├── 3. UNIDAD GEOMORFOLOGICA SGC.mxd
+    ├── 4. MAPA DE PENDIENTES.mxd
+    ├── 5. UNIDAD CARTOGRAFICA DE SUELOS.mxd
+    ├── 6. CAPACIDAD DE USO DE LA TIERRA.mxd
+    ├── 7. CUENCA HIDROGRAFICA.mxd
+    ├── 8. COBERTURAS NATURALES.mxd
+    └── 9. UNIDAD HIDROGEOLOGICA.mxd
+
+├── *5. PDF*
+
+    Descripción: Almacena planos en formato PDF que permiten la visualización detallada de los mapas del proyecto minero.
+
+    ├── 1. LOCALIZACIÓN GENERAL TÍTULO MINERO ECH-122.pdf
+    ├── 10. ZONAS DE RECARGA DE ACUIFEROS.pdf
+    ├── 11. ZONIFICACIÓN CLIMATICA.pdf
+    ├── 12. AMENAZA DE INUNDACIONES.pdf
+    ├── 13. AMENAZA POR MOVIMEINTOS EN MASA.pdf
+    ├── 14. AMENAZA POR AVENIDAS TORRENCIALES.pdf
+    ├── 15. AREA DE INFLUENCIA TITULO MINERO ECH-122.pdf
+    ├── 16. MUESTREO DE AGUA SUPERFICIAL.pdf
+    ├── 17. MONITOREO DE CALIDAD DE AIRE.pdf
+    ├── 18. MONITOREO_RUIDO_AMBIENTALpdf.pdf
+    ├── 19. AREAS REFORESTACION Y MUESTRTAS DE SUELO.pdf
+    ├── 2. UNIDAD GEOLÓGICA Y ESTRUCTURAL TITULO MINERO ECH-122.pdf
+    ├── 3. UNIDAD GEOMORFOLÓGICA.pdf
+    ├── 4. MAPA DE PENDIENTES.pdf
+    ├── 5. UNIDAD CARTOGRAFICA DE SUELOS.pdf
+    ├── 6. CAPACIDAD DE USO DE LA TIERRA.pdf
+    ├── 7. CUENCAS HIDROGRAFICAS.pdf
+    ├── 8. COBERTURAS NATURALES DE LA TIERRA.pdf
+    └── 9. UNIDAD HIDROGEOLÓGICA.pdf
